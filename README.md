@@ -1,11 +1,10 @@
 Before all the blah blah blah I just want to tell you what I acheived in the app.
 It's basically app that gets to top 20 and top 1000 movies as rated by metacritic (NOTE that this is stale data gotten from my DB).
 
-To see the top 20 movies visit [top-20](https://nextjs-with-mongodb-chi.vercel.app/movies)
-To see the top 1000 movies visit [top-1000](https://nextjs-with-mongodb-chi.vercel.app/top)
+To see the top 20 movies visit [top-20](https://nextjs-with-mongodb-chi.vercel.app/movies).
+To see the top 1000 movies visit [top-1000](https://nextjs-with-mongodb-chi.vercel.app/top),
 
 Btw there's no CSS stlying, ENJOY :-)
-
 
 ## Example app using MongoDB
 
